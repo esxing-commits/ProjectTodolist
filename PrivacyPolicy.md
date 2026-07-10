@@ -1,74 +1,99 @@
-## 隱私政策
+**Privacy Policy**
 
-最後更新日期： 2026 年 7 月 9 日
-Project Todolist 應用程式（以下簡稱「本應用程式」）致力於保護使用者的隱私。本應用程式是一款植物照護日記工具，我們深知使用者對其個人資料和植物記錄的重視。本政策旨在說明我們如何處理您在使用本應用程式時所提供的資訊。
-1. 資料的收集與使用
-本應用程式是一個本地資料儲存應用程式，其核心功能不會將您的個人身份資料（Personal Identifiable Information, PII）上傳到任何外部伺服器。
-本地儲存資料： 您在應用程式中輸入或產生的所有資料。
-所有資料均儲存在您的裝置上的 App 沙盒 (Sandbox) 內，具體為 Documents 目錄。
-資料用途： 這些本地儲存的資料僅用於提供應用程式的核心功能，例如：
-顯示您的植物列表和照護歷史。
-提供照護提醒功能。
-實現日記記錄與編輯功能。
-iCloud 備份： 由於照片和資料儲存在 App 沙盒的 Documents 目錄，若您的裝置啟用了 iCloud 備份功能，這些資料將會透過 Apple 的 iCloud 服務進行備份。我們無法存取您的 iCloud 備份內容。
-2. 照片與媒體權限
-本應用程式會在您執行特定動作時請求媒體存取權限：
-相機與相簿權限 (讀取與寫入)：
-在您選擇「拍照」或「從相簿選擇」新增日記照片或植物代表照片時，需要存取您的相機或相簿。
-儲存到相簿權限 (寫入)：
-當您使用「下載到相簿」功能將 App 內照片儲存到系統相簿時，需要 NSPhotoLibraryAddUsageDescription 權限。
-所有權限請求皆是為了實現應用程式功能，我們不會在未經您同意的情況下，擅自存取或上傳您的任何照片。
-3. 資料的分享與披露
-不分享個人資料： 如前所述，我們不會收集您的個人身份資料，因此也不會與任何第三方分享或出售您的資料。
-分享功能： 如果您選擇使用應用程式未來的「社群分享」或「記錄分享」功能，您所分享的內容（例如照片、植物名稱、日記文字）將由您自願發布到您選擇的第三方平台。
-4. 資料的保留與刪除
-資料保留： 您的所有資料將永久儲存在您的裝置上，直到您：
-手動刪除植物或日記記錄。
-將本應用程式從您的裝置中刪除（請注意：刪除 App 將同時刪除沙盒內所有資料和照片）。
-5. 政策變更
-我們可能會不時更新此隱私政策。所有變更將透過在應用程式內發布新政策版本的方式通知您。
-6. 聯絡我們
-如果您對本隱私政策有任何疑問，請透過以下方式與我們聯繫：es.xing.dev@gmail.com
+This privacy policy applies to the 怕忘記清單 app for mobile devices, together with any related services operated by CHENG YU HSIN (collectively, the "Application"). CHENG YU HSIN is hereby referred to as the "Service Provider".
 
-This policy outlines how the GardenDiary application handles user data, focusing on its local data storage nature.
-GardenDiary Privacy Policy
-Effective Date: November 17, 2025
-The GardenDiary application (the "App") is committed to protecting the privacy of its users. GardenDiary is designed as a personal plant care journal and utilizes a local data storage model. This policy explains how we handle information in connection with your use of the App.
+**Information Collection and Use**
 
-1. Data Collection and Use
-GardenDiary is a local-only application. We do not collect or transmit your Personal Identifiable Information (PII) to any external servers.
-Locally Stored Data: All information you enter and generate within the App is stored exclusively on your device. This data includes:
-Plant details (Name, Nickname, Family, Species, Purchase Info, Notes).
-Diary entry records (Date, Text Notes, Care Activities like watering, fertilizing).
-Photo Files: All plant cover photos and diary photos are stored as files within the App's secure App Sandbox (specifically, the Documents directory) on your device.
-Purpose of Data: The locally stored data is used solely to provide the core functionalities of the App, such as:
-Displaying your plant collection and care history.
-Generating smart care reminders (e.g., 7-day watering reminder).
-Allowing you to edit and manage your plant records.
-iCloud Backup: If you have enabled iCloud Backup on your device, the data stored in the App Sandbox may be included in your personal iCloud backup, which is controlled and managed by Apple. We do not have access to your iCloud backup content.
+The Application collects information when you download and use it. This information may include information such as
 
-2. Photo and Media Permissions
-The App requests access to your device's media when you perform specific actions:
-Camera and Photo Library Access:
-We request access to your Camera to take new photos for diary entries or plant covers.
-We request access to your Photo Library to select existing photos for your entries.
-Photo Library Write Access:
-We request the necessary permission (NSPhotoLibraryAddUsageDescription) when you use the "Save to Photo Library" feature to export a photo from the App to your device's system photo album.
-We do not access, upload, or share your photos or media files without your explicit action and consent.
+*   Your device's Internet Protocol address
+*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+*   The time spent on the Application
+*   your mobile operating system you use
 
-3. Data Sharing and Disclosure
-No Sharing or Selling: Since we do not collect your personal data, we do not share, sell, or rent any personal information with third parties.
-User-Initiated Sharing: If you choose to use your device’s system share sheet to share a photo that you have first exported from the App, that sharing action is solely at your discretion and governed by the privacy policies of the platform you choose to share it on.
+**Cookies and tracking technologies**
 
-4. Data Retention and Deletion
-Retention: Your data is retained on your device until you choose to remove it.
-Deletion: Your data will be deleted when you:
-Manually delete a plant or diary entry within the App (using the edit/delete functions).
-Delete the GardenDiary App from your device. Warning: Deleting the App will permanently delete all data and photos stored within the App Sandbox.
+The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
-5. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App.
-6. Contact Us
+**Your Rights**
 
-If you have any questions about this Privacy Policy, please contact us:
-Email:es.xing.dev@gmail.com
+You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at 簡單好用的待辦事項與提醒工具.
+
+**Your California privacy rights (CCPA/CPRA)**
+
+If you are a California resident, you have the right to know what personal information is collected, the right to delete personal information, the right to opt out of the sale or sharing of personal information, and the right to non-discrimination for exercising these rights. To exercise your CCPA/CPRA rights, contact the Service Provider at 簡單好用的待辦事項與提醒工具.
+
+The Service Provider may use the information you provide to send important information, required notices, and, where permitted by law, marketing communications.
+
+For a better experience while using the Application, the Service Provider may require you to provide certain personally identifiable information, including but not limited to es.xing.dev@gmail.com. The information the Service Provider requests will be retained and used as described in this privacy policy.
+
+**Third Party Access**
+
+Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+
+**International Data Transfers**
+
+The Service Provider or its third-party service providers may transfer personal data to countries outside your country of residence, including outside the European Economic Area (EEA). Where applicable law requires safeguards for international transfers, the Service Provider will use appropriate mechanisms.
+
+*   Standard Contractual Clauses (SCCs) approved by the European Commission
+*   Adequacy decisions or other legally recognized transfer mechanisms
+*   Your consent, where required and legally permitted
+
+Data protection laws in other countries may differ from those in your jurisdiction. Where required by law, the Service Provider will apply appropriate safeguards and obtain any consent required for the transfer.
+
+The Service Provider may disclose User Provided and Automatically Collected Information:
+
+*   as required by law, such as to comply with a subpoena, or similar legal process;
+*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   with their trusted services providers who work on their behalf, do not have an independent use of the information the Service Provider discloses to them, and have agreed to adhere to the rules set forth in this privacy statement.
+
+**Opt-Out Rights**
+
+You can stop further collection of information from your mobile device by uninstalling the Application. Uninstalling will stop the Application from collecting data from your device, but it does not automatically delete information that has already been transmitted to the Service Provider or to third parties.
+
+To request deletion of your personal data, to withdraw consent, or to exercise any of your rights, contact the Service Provider at 簡單好用的待辦事項與提醒工具.
+
+**Data Retention Policy**
+
+The Service Provider retains personal data based on its necessity for the stated purposes:
+
+*   User Provided Data: Retained for the duration of your use of the Application plus 12 months thereafter, unless longer retention is required by law
+*   Automatically Collected Data: Retained for up to 24 months from collection, unless longer retention is required for legal compliance
+*   Aggregated and Anonymized Data: Retained indefinitely as it no longer identifies you
+*   Data required for legal compliance: Retained as long as required by applicable law
+
+You may request deletion of your personal data, subject to any legal obligation to retain it. If you want the Service Provider to delete User Provided Data submitted through the Application, please contact them at 簡單好用的待辦事項與提醒工具. Please note that some User Provided Data may be required for the Application to function properly.
+
+**Children**
+
+The Application is not intended for children under 13 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourages parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider so that they will be able to take the necessary actions. If you are under 13 years of age, your parent or guardian must provide consent on your behalf where permitted by law.
+
+**Security**
+
+The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+
+**Data Breach Notification**
+
+If a data breach occurs that affects your personal data, the Service Provider will notify you in accordance with applicable legal requirements, including, where required, providing information about the nature of the breach and the steps being taken to address it.
+
+**Changes**
+
+The Service Provider may update this Privacy Policy from time to time. The Service Provider will notify you of material changes by posting the updated Privacy Policy with an effective date. Where required by law, the Service Provider will seek your consent to material changes before they take effect.
+
+Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at 簡單好用的待辦事項與提醒工具.
+
+This privacy policy is effective as of 2026-07-10
+
+**Your Consent**
+
+Where processing is based on consent, you provide that consent by affirmatively opting in to the relevant feature or action. You may withdraw consent at any time without affecting processing carried out before withdrawal. Processing based on other lawful bases is carried out as described above.
+
+**Contact Us**
+
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at 簡單好用的待辦事項與提醒工具.
+
+* * *
+
+<span>This privacy policy page was generated by</span> [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
